@@ -16,3 +16,7 @@ PLANE/VTAIL HOOKUP
 MPU6050 (Use INAV-5.1.0 with headers facing front) - Click "Keep Current Settings" after flashing otherwise it will not boot. Modify "Mixers" to QUADX or Plane then "Outputs" to Enable Motors and Servo Output.
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/keepcurrentsettings.png?dl=0)
+
+INAV Configurator Links
+
+https://github.com/iNavFlight/inav-configurator/releases/download/5.1.0/INAV-Configurator_win64_5.1.0.zip
