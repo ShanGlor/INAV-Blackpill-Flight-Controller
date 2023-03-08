@@ -12,3 +12,5 @@ QUADCOPTER HOOKUP
 PLANE/VTAIL HOOKUP
 
 ![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/blob/main/blackpill-fc-pinout-LARGE-rev3-FixedWing.png?dl=0)
+
+MPU6050 (Only on Inav-5.1.0 with headers facing front) - Click "Keep Current Settings" after flashing otherwise it will not boot. Modify "Mixers" to QUADX then "Outputs" to Enable Motors and Servo Output.
