@@ -17,6 +17,8 @@ PLANE/VTAIL
 
 ![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/blob/main/blackpill-fc-pinout-LARGE-rev3-FixedWing.png?dl=0)
 
+For updated firmware specifically for a Fixed Wing see https://github.com/ShanGlor/BlackWing-INAV-STM32F411
+
 (NOTE!!!) MPU6050 (Use INAV-5.1.0 with headers facing front) - Click "Keep Current Settings" after flashing otherwise it will not boot. Modify "Mixers" to QUADX or Plane then "Outputs" to Enable Motors and Servo Output.
 
 ![My Remote Image](https://github.com/EonClaw/DIY-Flight-Controller-STM32F411CEU6/blob/main/images/keepcurrentsettings.png?dl=0)
