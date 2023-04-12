@@ -26,3 +26,8 @@ INAV Configurator Links
 https://github.com/iNavFlight/inav-configurator/releases/download/5.1.0/INAV-Configurator_win64_5.1.0.zip
 
 https://github.com/iNavFlight/inav-configurator/releases/download/6.0.0-RC4/INAV-Configurator_win64_6.0.0.RC4.zip
+
+NOTE:
+Check CLI to verify pin assignments.
+
+No guarantees. No warranties. Use at your own risk.
